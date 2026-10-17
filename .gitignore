@@ -1,0 +1,22 @@
+# Visual Studio 本地缓存与用户配置
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 构建产物
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.cache
